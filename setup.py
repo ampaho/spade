@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    description="spAcy Acronym Detector",
+    description="spaCy Acronym Detector",
     entry_points={
         'console_scripts': [
             'spade=spade.cli:main',
